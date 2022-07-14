@@ -1,0 +1,15 @@
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/Lists.csproj.AssemblyReference.cache
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/Lists.AssemblyInfoInputs.cache
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/Lists.AssemblyInfo.cs
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/Lists.csproj.CoreCompileInputs.cache
+/Users/sopwithcamel/Projects/Lists/Lists/bin/Debug/net6.0/Lists
+/Users/sopwithcamel/Projects/Lists/Lists/bin/Debug/net6.0/Lists.deps.json
+/Users/sopwithcamel/Projects/Lists/Lists/bin/Debug/net6.0/Lists.runtimeconfig.json
+/Users/sopwithcamel/Projects/Lists/Lists/bin/Debug/net6.0/Lists.dll
+/Users/sopwithcamel/Projects/Lists/Lists/bin/Debug/net6.0/Lists.pdb
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/Lists.dll
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/refint/Lists.dll
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/Lists.pdb
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/Lists.genruntimeconfig.cache
+/Users/sopwithcamel/Projects/Lists/Lists/obj/Debug/net6.0/ref/Lists.dll
